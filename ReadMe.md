@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently a full time degree student majoring in Software Engineering at Asia Pacific University.<br>I'm also working at CTI Reasearch & Development Assistant at Asia Pacific University.<br>I'm currently learning Flutter and Angular.<br><br>
-
+I'm currently a full time degree student majoring in Software Engineering at Asia Pacific University.<br>I'm also working at CTI Reasearch & Development Assistant at Asia Pacific University.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brrrighttt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bright-chiah-0123) 
